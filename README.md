@@ -16,8 +16,8 @@ To help out people we have desinged Health Club where people can get prediction 
 
 
 # TechStack:
-# Frontend :Css,html,reactjs
-# Backend :flask,ML,heroku 
+### Frontend :CSS,HTML,REACTJS
+### Backend :FLASK,ML,HEROKU 
 
 
 
